@@ -3,4 +3,10 @@
     <string name="texto1">Hola JEJE</string>
     <string name="texto2">GG IZI</string>
     <string name="btn_saludar">Saludar</string>
+    <string name="sumarBtn">+</string>
+    <string name="n1Label">N1</string>
+    <string name="n2Label">N2</string>
+    <string name="restaBtn">-</string>
+    <string name="multiplicarBtn">x</string>
+    <string name="dividirBtn">/</string>
 </resources>
